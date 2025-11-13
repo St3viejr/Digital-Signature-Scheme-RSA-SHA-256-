@@ -9,7 +9,7 @@ The script performs the three essential stages:
 
 ---
 
-### ✨ Skills Demonstrated
+### Skills Demonstrated
 
 * Python
 * Cryptography (Asymmetric-key)
@@ -20,7 +20,7 @@ The script performs the three essential stages:
 
 ---
 
-### ▶️ How to Run
+### How to Run
 
 1.  **Clone/Download:** Place the script in a new folder.
 2.  **Create an Input File:** In the same folder, you **must create a file named `testfile.txt`**. Write any message inside it (e.g., "This is the original message.").
@@ -41,7 +41,7 @@ The script performs the three essential stages:
     python rsa_digital_signature_verification.py
     ```
 
-### 💻 Output
+### Output
 
 When you run the script, it will:
 1.  **Create 3 new files:** `private_key.pem`, `public_key.pem`, and `signature.sig`.
